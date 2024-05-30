@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Asignaturas/title>
+</head>
+     <body bgcolor="#00FFFF">
+     <font color="#0000FF" size="5" face="Verdana">
+            <b> MAPA CURRICULAR</b>
+    </font>
+     <hr alighn="center" width="100%" size="10" noshade
+     <h2 align="left"> Formaciòn para el trabajo </h2>
+     <ul>
+        <li>Planeación y Administración de Pequeños Negocios</li>
+        <li>Auditoría de Gestión de CALIDAD</li>
+        <li>Contabilidad Comercial y de Servicios </li>
+        <li>Ingles Empresarial </li>
+        <li>Informática para Oficinas </li>
+     </ul>
+     <h2 align="left"> Componenete b&aacute ;sico </h2>
+        <ol>
+                <li>Matemáticas</li>
+                <li>Ingles</li>
+                <li>Informática</li>
+                <li>Ética y Valores</li>
+                <li>Introducción a la Ciencias Sociales</li>
+                <li>Química</li>
+                <li>Taller de Lectura y Redacción</li>
+                <li>Historia de Mexico</li>
+                <li>Literatura</li>
+                <li>Biologia</li>
+                <li>fisica</li>
+                <li>Algebra</li>
+                <li>Logica</li>
+                <li>Estructura socioeconomica de Mexico</li>
+        </ol>
+        <h2 align="left"> Programas </h2>
+       </ul tipe=i>
+         <li>Orientacion</li>
+         <li>Construyete</li>
+         <li>Paraescolar</li>
+         <li>Tutorias</li>
+             </ul>
+             <hr align="center width=100%" size="2"noshade>
+             <p align="left">
+              <font color="0000cc" size"2" face="Verdana">
+                     <i>
+                            &copy; 2019. Derechos reservados. <br>
+                            Elaborado por: Ingrid Morales
+                            Matricula: "02112073"
+                            Grupo: "601" <br>
+                            Plantel: "El Florido"
+                     </i>
+              </font>
+             </p>
+</body>
+</html>
+

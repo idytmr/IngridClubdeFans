@@ -1,0 +1,77 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.contenedor{
+    background: tomato;
+    width:100%;
+    margin: auto;
+}
+
+header{
+    height:400px;
+    background-image: url("../img/portada.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+main{
+    background: white;
+    padding: 150px 150px;
+}
+
+main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+    border-radius:50%;
+    margin: -230px 0 50px 0;
+    border: 6px solid #ffffff;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+main .foto img{
+    width:100%;
+    border-radius:50%;
+}
+
+
+footer{
+    background: teal;
+    text-align: center;
+    padding:  25px;
+    color: #ffffff;
+}
+
+
+
+
+
+/****Boton*****/
+
+.boton a{
+    background: rgb(126, 109, 221);
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+    display: block;
+    padding: 15px 10px;
+    border-radius: 5px;
+    width:100px;
+    margin:0 auto;
+    text-align:center;
+    
+
+}
+.boton a:hover{
+    background: rgb(23, 53, 119);
+}
